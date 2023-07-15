@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Phadoo131
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Go, Microservice, Node.js, Python, AWS, Docker, Kubernetes
+- I'm eager to learn deeper in this field, feel free to give a suggestion on any parts.
 
 
 <!---
