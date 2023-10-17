@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Phadoo131
-- 👀 I’m interested in Software development
-- 🌱 Programming Languages: Go, C#, Python, HTML, CSS, and Basic JavaScript
-- 🌱 Frameworks: Gin, Echo, .NET
-- 🌱 Databases: PostgreSQL, MySQL, MongoDB
-- 🌱 Others: Docker, pgAdmin, Google Apps Script
-- I'm eager to dig deeper into this field, so feel free to give a suggestion on any parts.
+👋 Hi, I’m @Phadoo131
+👀 A newborn dev from the HR field is coming to town.
+👀 I’m super passionate about Software development, I don't even know how I got to this point.
+  
+🌱 Programming Languages: Go, C#, Python, HTML, CSS, and Basic JavaScript
+🌱 Frameworks: Gin, Echo, .NET
+🌱 Databases: PostgreSQL, MySQL, MongoDB
+🌱 Others: Docker, pgAdmin, Google Apps Script
+  
+I'm eager to dig deeper into this field, so feel free to give a suggestion on any parts.
 
 [![Phadoo's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Slight1304&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
