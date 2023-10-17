@@ -2,7 +2,7 @@
 - 👀 A newborn dev from the HR field is coming to town.
 - I’m super passionate about Software development, I don't even know how I got to this point.
 
-## Here are the programming languages, frameworks, databases, and other tools I'm familiar with:
+## I'm familiar with:
 - Programming Languages: Go, C#, Python, HTML, CSS, and basic JavaScript
 - Frameworks: Gin, Echo, .NET
 - Databases: PostgreSQL, MySQL, MongoDB
