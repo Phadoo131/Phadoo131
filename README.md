@@ -4,10 +4,10 @@
 
 - Here are the programming languages, frameworks, databases, and other tools I'm familiar with:
 
-* Programming languages: [Python icon] [Go icon] [C# icon] [JavaScript icon] [HTML icon] [CSS icon]
-* Frameworks: [Gin icon] [Echo icon] [.NET icon]
-* Databases: [PostgreSQL icon] [MySQL icon] [MongoDB icon]
-* Others: [Docker icon] [pgAdmin icon] [Google Apps Script icon]
+* Programming languages: Go, C#, Python, HTML, CSS, and basic JavaScript
+* Frameworks: Gin, Echo, .NET
+* Databases: PostgreSQL, MySQL, MongoDB
+* Others: Docker, pgAdmin, Google Apps Script
 
 - I'm eager to dig deeper into this field, so feel free to give a suggestion on any parts.
 
