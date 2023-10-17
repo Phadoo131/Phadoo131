@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Phadoo131
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Go, Microservice, Node.js, Python, AWS, Docker, Kubernetes, HTML, CSS, JavaScript, C#, .NET
-- I'm eager to learn deeper in this field, feel free to give a suggestion on any parts.
+- 🌱 Programming Languages: Go, C#, Python
+- 🌱 Frameworks: Gin, Echo, .NET
+- 🌱 Databases: PostgreSQL, MySQL, MongoDB
+- 🌱 Others: Docker, pgAdmin
+- I'm eager to dig deeper into this field, so feel free to give a suggestion on any parts.
 
 [![Phadoo's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Slight1304&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
