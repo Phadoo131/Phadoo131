@@ -3,7 +3,7 @@
 - I’m super passionate about Software development, I don't even know how I got to this point.
 
 ## I'm familiar with:
-- Programming Languages: Go, C#, Python, HTML, CSS, and basic JavaScript
+- Programming Languages: Go, Java, C#, Python, HTML, CSS, and basic JavaScript
 - Frameworks: Gin, Echo, .NET
 - Databases: PostgreSQL, MySQL, MongoDB
 - Others: Docker, pgAdmin, Google Apps Script
