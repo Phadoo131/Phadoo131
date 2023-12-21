@@ -1,12 +1,12 @@
 # 👋 Hi, I’m @Phadoo131
 - 👀 A newborn dev from the HR field is coming to town.
-- I’m super passionate about Software development, I don't even know how I got to this point.
+- Super passionated in this field.
 
 ## I'm familiar with:
-- Programming Languages: Go, Java, C#, Python, HTML, CSS, and basic JavaScript
+- Programming Languages: Go, Java, JavaScript C#, Python.
 - Frameworks: Spring Boot, Gin, Echo, .NET
 - Databases: PostgreSQL, MySQL, MongoDB
-- Others: Docker, pgAdmin, Google Apps Script
+- Others: Docker, pgAdmin, Google Apps Script, MySQL Workbench.
 
 ###### I'm eager to dig deeper into this field, so feel free to give a suggestion on any parts.
 
