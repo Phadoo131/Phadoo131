@@ -1,10 +1,8 @@
 # 👋 Hi, I’m @Phadoo131
-- 👀 A newborn dev from the HR field is coming to town.
-- Super passionated in this field.
 
 ## I'm familiar with:
-- Programming Languages: Go, Java, JavaScript C#, Python.
-- Frameworks: Spring Boot, Gin, Echo, .NET
+- Programming Languages: Go, Java, JavaScript, TypeScript C#, Python.
+- Frameworks: Spring Boot, React.js, Gin, Echo, .NET
 - Databases: PostgreSQL, MySQL, MongoDB
 - Others: Docker, pgAdmin, Google Apps Script, MySQL Workbench.
 
